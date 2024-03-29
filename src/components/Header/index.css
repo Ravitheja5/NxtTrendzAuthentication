@@ -1,0 +1,34 @@
+/* Write your CSS code here */
+.nav-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 90%;
+}
+.header-image {
+  height: 30px;
+  
+}
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30pxpx;
+
+  width: 220px;
+}
+.nav-link-button {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  color: white;
+  border-radius: 3px;
+  background-color: #0b69ff;
+  border: 0px;
+}
+.nav-link {
+}
